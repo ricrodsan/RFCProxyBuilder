@@ -1,0 +1,5 @@
+<SAPServer>
+  <ServerInfo NAME="teste" ASHOST="" SYSNR="" CLIENT="" LANG="EN" />
+  <ServerInfo NAME="SAP Server List" ASHOST="grusapqas-01.achebr.int" SYSNR="01" CLIENT="500" LANG="pt" />
+  <ServerInfo NAME="mdg" ASHOST="sapmdgapp01d.nprodsap.ache.com.br" SYSNR="00" CLIENT="131" LANG="pt" />
+</SAPServer>

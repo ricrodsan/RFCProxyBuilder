@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29001.49
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RFCProxyBuilder", "RFCProxyBuilder\RFCProxyBuilder.csproj", "{B506C66F-C0A8-48C0-AE11-E8F0C8269BED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B506C66F-C0A8-48C0-AE11-E8F0C8269BED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B506C66F-C0A8-48C0-AE11-E8F0C8269BED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B506C66F-C0A8-48C0-AE11-E8F0C8269BED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B506C66F-C0A8-48C0-AE11-E8F0C8269BED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1510AB96-C6AD-490D-A2F2-E89CE3B91A97}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,68 @@
+
+**** ERROR file opened at 20190613 141923 E. South America Standard Time, SAP-REL 740,0,89 RFC-VER 3  MT-SL
+T:20300 Error in program 'RFCProxyBuilder': ======> O nome ou a senha não está correto (repetir o logon)
+T:20300 Error in program 'RFCProxyBuilder': <* RfcReceive [1] : returns 3:RFC_SYS_EXCEPTION
+
+**** ERROR file opened at 20190613 145706 E. South America Standard Time, SAP-REL 740,0,89 RFC-VER 3  MT-SL
+T:21056 Error in program 'RFCProxyBuilder': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=10.96.0.82, GWSERV=sapgw00, SYSNR=00
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       partner '10.96.0.82:3300' not reached
+TIME        Thu Jun 13 14:57:06 2019
+RELEASE     740
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      D:/depot/bas/740_REL/src/base/ni/nixxi.cpp
+LINE        3324
+DETAIL      NiPConnect2: 10.96.0.82:3300
+SYSTEM CALL connect
+ERRNO       10061
+ERRNO TEXT  WSAECONNREFUSED: Connection refused
+COUNTER     3
+
+
+**** ERROR file opened at 20190613 145741 E. South America Standard Time, SAP-REL 740,0,89 RFC-VER 3  MT-SL
+T:21056 Error in program 'RFCProxyBuilder': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=10.96.0.82, GWSERV=sapgw00, SYSNR=00
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       partner '10.96.0.82:3300' not reached
+TIME        Thu Jun 13 14:57:41 2019
+RELEASE     740
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      D:/depot/bas/740_REL/src/base/ni/nixxi.cpp
+LINE        3324
+DETAIL      NiPConnect2: 10.96.0.82:3300
+SYSTEM CALL connect
+ERRNO       10061
+ERRNO TEXT  WSAECONNREFUSED: Connection refused
+COUNTER     4
+
+
+**** ERROR file opened at 20190613 152752 E. South America Standard Time, SAP-REL 740,0,89 RFC-VER 3  MT-SL
+T:21056 Error in program 'RFCProxyBuilder': ======> O mandante 300 não existe no sistema
+T:21056 Error in program 'RFCProxyBuilder': <* RfcReceive [10] : returns 3:RFC_SYS_EXCEPTION
+
+**** ERROR file opened at 20190613 152805 E. South America Standard Time, SAP-REL 740,0,89 RFC-VER 3  MT-SL
+T:21056 Error in program 'RFCProxyBuilder': ======> O nome ou a senha não está correto (repetir o logon)
+T:21056 Error in program 'RFCProxyBuilder': <* RfcReceive [11] : returns 3:RFC_SYS_EXCEPTION
+
+**** ERROR file opened at 20190613 183448 E. South America Standard Time, SAP-REL 740,0,89 RFC-VER 3  MT-SL
+T:14052 Error in program 'RFCProxyBuilder': ======> O nome ou a senha não está correto (repetir o logon)
+T:14052 Error in program 'RFCProxyBuilder': <* RfcReceive [1] : returns 3:RFC_SYS_EXCEPTION
+
+**** ERROR file opened at 20190613 185909 E. South America Standard Time, SAP-REL 740,0,89 RFC-VER 3  MT-SL
+T:17392 Error in program 'RFCProxyBuilder': ======> O nome ou a senha não está correto (repetir o logon)
+T:17392 Error in program 'RFCProxyBuilder': <* RfcReceive [1] : returns 3:RFC_SYS_EXCEPTION
+
+**** ERROR file opened at 20190613 191121 E. South America Standard Time, SAP-REL 740,0,89 RFC-VER 3  MT-SL
+T:16672 Error in program 'RFCProxyBuilder': ======> O nome ou a senha não está correto (repetir o logon)
+T:16672 Error in program 'RFCProxyBuilder': <* RfcReceive [1] : returns 3:RFC_SYS_EXCEPTION
+
+**** ERROR file opened at 20190613 191123 E. South America Standard Time, SAP-REL 740,0,89 RFC-VER 3  MT-SL
+T:16672 Error in program 'RFCProxyBuilder': ======> O nome ou a senha não está correto (repetir o logon)
+T:16672 Error in program 'RFCProxyBuilder': <* RfcReceive [2] : returns 3:RFC_SYS_EXCEPTION

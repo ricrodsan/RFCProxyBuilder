@@ -1,0 +1,22 @@
+
+**** Trace file opened at 20190613 191121 E. South America Standard Time, by RFCProxyBuilder
+**** Versions SAP-REL 740,0,89 RFC-VER nU 3  MT-SL
+
+
+>>> RfcOpenEx ...
+ Got following connect_param string: 
+   CLIENT=131 USER=usrwfmdg PASSWD=******* LANG=pt ASHOST=sapmdgapp01d.nprodsap.ache.com.br SYSNR=0 
+<<< RfcOpenEx failed
+
+>TS> Thu Jun 13 19:11:23 2019
+Error in program 'RFCProxyBuilder': ======> O nome ou a senha não está correto (repetir o logon)
+
+**** Trace file opened at 20190613 191123 E. South America Standard Time, by RFCProxyBuilder
+**** Versions SAP-REL 740,0,89 RFC-VER nU 3  MT-SL
+
+
+>>> RfcOpenEx ...
+ Got following connect_param string: 
+   CLIENT=131 USER=usrwfmdg PASSWD=******* LANG=pt ASHOST=sapmdgapp01d.nprodsap.ache.com.br SYSNR=0 
+<<< RfcOpenEx failed
+

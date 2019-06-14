@@ -1,0 +1,63 @@
+
+**** Trace file opened at 20190613 145706 E. South America Standard Time, by RFCProxyBuilder
+**** Versions SAP-REL 740,0,89 RFC-VER nU 3  MT-SL
+
+
+>>> RfcOpenEx ...
+ Got following connect_param string: 
+   CLIENT=300 USER=rfc_cs_ache PASSWD=******* LANG=pt ASHOST=10.96.0.82 SYSNR=0 
+<<< RfcOpenEx failed
+
+>TS> Thu Jun 13 14:57:41 2019
+Error in program 'RFCProxyBuilder': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=10.96.0.82, GWSERV=sapgw00, SYSNR=00
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       partner '10.96.0.82:3300' not reached
+TIME        Thu Jun 13 14:57:41 2019
+RELEASE     740
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      D:/depot/bas/740_REL/src/base/ni/nixxi.cpp
+LINE        3324
+DETAIL      NiPConnect2: 10.96.0.82:3300
+SYSTEM CALL connect
+ERRNO       10061
+ERRNO TEXT  WSAECONNREFUSED: Connection refused
+COUNTER     4
+
+
+**** Trace file opened at 20190613 145741 E. South America Standard Time, by RFCProxyBuilder
+**** Versions SAP-REL 740,0,89 RFC-VER nU 3  MT-SL
+
+
+>>> RfcOpenEx ...
+ Got following connect_param string: 
+   CLIENT=300 USER=rfc_cs_ache PASSWD=******* LANG=pt ASHOST=10.96.0.82 SYSNR=0 
+<<< RfcOpenEx failed
+
+>TS> Thu Jun 13 15:27:52 2019
+Error in program 'RFCProxyBuilder': ======> O mandante 300 não existe no sistema
+
+**** Trace file opened at 20190613 152752 E. South America Standard Time, by RFCProxyBuilder
+**** Versions SAP-REL 740,0,89 RFC-VER nU 3  MT-SL
+
+
+>>> RfcOpenEx ...
+ Got following connect_param string: 
+   CLIENT=300 USER=rfc_cs_ache PASSWD=******* LANG=pt ASHOST=sapmdgapp01d.nprodsap.ache.com.br SYSNR=0 
+<<< RfcOpenEx failed
+
+>TS> Thu Jun 13 15:28:05 2019
+Error in program 'RFCProxyBuilder': ======> O nome ou a senha não está correto (repetir o logon)
+
+**** Trace file opened at 20190613 152805 E. South America Standard Time, by RFCProxyBuilder
+**** Versions SAP-REL 740,0,89 RFC-VER nU 3  MT-SL
+
+
+>>> RfcOpenEx ...
+ Got following connect_param string: 
+   CLIENT=131 USER=rfc_cs_ache PASSWD=******* LANG=pt ASHOST=sapmdgapp01d.nprodsap.ache.com.br SYSNR=0 
+<<< RfcOpenEx failed
+
